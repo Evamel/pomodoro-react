@@ -1,0 +1,60 @@
+body{
+    background: -webkit-linear-gradient(90deg, rgb(115, 129, 143), rgb(49, 78, 107));
+    background: linear-gradient(90deg, rgb(115, 129, 143), rgb(49, 78, 107));
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Timer{
+    margin-top: 50px;
+    font-size: 100px;
+}
+
+.buttons{
+    margin: 40px;
+}
+
+.btnPlus{
+    border: none;
+    border-radius: 30px;
+    font-size: 60px;
+    margin: 20px;
+}
+.btnPlus:hover{
+    box-shadow: 10px 5px 5px black;
+}
+
+.btnMin{
+    border:none;
+    border-radius: 30px;
+    font-size: 60px;
+    width: 50px;
+    margin: 20px;
+}
+.btnMin:hover{
+    box-shadow: 10px 5px 5px black;
+}
+
+.startBtn{
+    border:none;
+    border-radius: 30px;
+    font-size: 60px;
+    padding: 5px;
+    margin: 20px;   
+}
+.startBtn:hover{
+    box-shadow: 10px 5px 5px black;
+}
+
+.reset{
+    border:none;
+    border-radius: 30px;
+    font-size: 60px;
+    padding: 5px;
+    margin: 20px;
+}
+.reset:hover{
+    box-shadow: 10px 5px 5px black;
+}
+
+/*# sourceMappingURL=/pomodoro-react.e31bb0bc.css.map */
